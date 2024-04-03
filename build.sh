@@ -1,0 +1,1 @@
+g++ -o main main.cpp AVRender.cpp AudioThread.cpp VideoThread.cpp -lSDL2 -lavformat -lavcodec -lavutil -lswresample
